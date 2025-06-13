@@ -6,15 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "qual a diferença entre o campo e a cidade?",
+        enunciado: "Como faço para conseguir medicamentos não padronizados do sus?",
         alternativas: [
             {
-                texto: " um produz o alimento enquanto outro e consumido o alimento.",
-                afirmacao: "<b>inteligente</b>agricultura,pecuaria, .",
-            }  
-
+                texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
+                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
+            },
             {
-                texto: "Quais as principais atividades econômicas no campo?.",
+                texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
                 afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
             }
         ]

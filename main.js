@@ -11,6 +11,8 @@ const perguntas = [
             {
                 texto: "em um e produzido o alimento em outro e consumido o alimento",
                 afirmacao: "<b>Organização</b> Sim, o campo produz o alimento para a cidade.",
+            }  
+            
             {
                 texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
                 afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"

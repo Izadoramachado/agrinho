@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como faço para conseguir medicamentos não padronizados do sus?",
+        enunciado: "qual a relação entre campo e cidade?",
         alternativas: [
             {
                 texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
